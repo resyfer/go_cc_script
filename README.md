@@ -1,2 +1,2 @@
 # go_cc_script
-A cross compiling script for go
+Just a little cross compiling script I wrote for my go programs
